@@ -1,0 +1,1 @@
+print("denema amacli karalama")
